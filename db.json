@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "decription": "lập trình không khó",
+      "id": 2
+    }
+  ],
+  "profile": [
+    {
+      "name": "thương",
+      "description": "xinh gái",
+      "id": 14
+    },
+    {
+      "name": "Thương1",
+      "description": "khóc nhè",
+      "id": 15
+    },
+    {
+      "name": "á",
+      "description": "qqq",
+      "id": 16
+    },
+    {
+      "name": "bsbss",
+      "description": "aa",
+      "id": 17
+    },
+    {
+      "name": "ss",
+      "des": "aaa",
+      "id": 18
+    },
+    {
+      "name": "zz",
+      "des": "zzz",
+      "id": 19
+    },
+    {
+      "name": "sss",
+      "des": "aa",
+      "id": 20
+    }
+  ]
+}
